@@ -1,0 +1,41 @@
+﻿@model IPC.Correios.Web.Models.Logradouro
+
+
+@{
+    ViewBag.Title = "Busca Cep";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>BuscaCep</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+      
+
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label class="form-label">Estado</label>
+            <select formControlName="estado" id="estado" class="form-control select-custom">
+            </select>
+        </div>
+        <div class="form-group col-md-12">
+            <label class="form-label">Município</label>
+            <select formControlName="municipio" id="municipio" class="form-control select-custom">
+            </select>
+        </div>
+        <div class="form-group col-md-12">
+            <label class="form-label">Logradouro</label>
+            <select formControlName="logradouro" id="logradouro" class="form-control select-custom">
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group col-md-12 col-sm-12 mt-4">
+        <button type="submit" class="btn btn-primary" (click)="save($event)">Buscar</button>
+    </div>
+}
+
+<div>
+    <a class="btn btn-primary" @Html.ActionLink("Voltar", "Index")</a>
+</div>
