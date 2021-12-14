@@ -1,0 +1,73 @@
+1029183@SC@8571@36186@@Padre Gilberto Gonzaga@@88370154@Rua@S@R Pe Gilberto Gonzaga               
+1029184@SC@8571@57944@@Vereador Gilço Antonio Batista@@88370774@Rua@S@R Ver Gilço A Batista               
+1029185@SC@8571@36186@@Vereador Gildo Batista@@88370366@Rua@S@R Ver Gildo Batista                 
+1029186@SC@8571@57950@@Deputado Gilmar Knaesel@@88372826@Rua@S@R Dep Gilmar Knaesel                
+1029187@SC@8571@57948@@Graciliano Dias de Moura@@88371636@Beco@S@Bc Graciliano D de Moura            
+1029188@SC@8571@36186@@Graciliano Rodrigues@@88370122@Rua@S@R Graciliano Rodrigues              
+1029189@SC@8571@57944@@Gracilides Coelho Reiser@@88370552@Rua@S@R Gracilides C Reiser               
+1029190@SC@8571@36186@@Guilherme Palumbo@@88370376@Rua@S@R Guilherme Palumbo                 
+1029191@SC@8571@57950@@Guilherme Wegner@- até 499/500@88372656@Rua@S@R Guilherme Wegner                  
+1029192@SC@8571@57950@@Guilherme Wegner@- de 501/502 ao fim@88372718@Rua@S@R Guilherme Wegner                  
+1029193@SC@8571@57947@@Helena Passos Dauer@@88371487@Rua@S@R Helena P Dauer                    
+1029194@SC@8571@57950@@Hélio Jesus Montenegro@@88372512@Rua@S@R Hélio J Montenegro                
+1029195@SC@8571@57949@@Promotor Hélio Rosa@@88372094@Rua@S@R Prom Hélio Rosa                   
+1029196@SC@8571@57950@@Helmuth Baungartner@- até 663/664@88372624@Rua@S@R Helmuth Baungartner               
+1029197@SC@8571@57950@@Helmuth Baungartner@- de 665/666 ao fim@88372756@Rua@S@R Helmuth Baungartner               
+1029198@SC@8571@57949@@Helmuth Becker@@88372020@Rua@S@R Helmuth Becker                    
+1029199@SC@8571@57947@@Henrique Dauer Júnior@@88371490@Rua@S@R Henrique D Júnior                 
+1029200@SC@8571@57950@@Henrique Julião@@88372810@Rua@S@R Henrique Julião                   
+1029201@SC@8571@57949@@Herbert Neitzel@@88372072@Rua@S@R Herbert Neitzel                   
+1029202@SC@8571@57950@@Hercílio Gonçalves@@88372696@Rua@S@R Hercílio Gonçalves                
+1029203@SC@8571@57947@@Hercílio Rocha Weber@@88371370@Rua@S@R Hercílio R Weber                  
+1029204@SC@8571@57950@@Hernandes Lopes@@88372590@Rua@S@R Hernandes Lopes                   
+1029205@SC@8571@57950@@Hertha Beduschi@@88372610@Servidão@S@Srv Hertha Beduschi                 
+1029206@SC@8571@57949@@Hervino Sebastião Belly@@88372062@Rua@S@R Hervino S Belly                   
+1029207@SC@8571@57947@@Hipólito Francisco de Borba@@88371382@Rua@S@R Hipólito F de Borba               
+1029208@SC@8571@57945@@Homero Pereira@@88371064@Rua@S@R Homero Pereira                    
+1029209@SC@8571@36186@@Honorato Coelho da Rocha@- até 479/480@88370076@Rua@S@R Honorato C da Rocha               
+1029210@SC@8571@36186@@Honorato Coelho da Rocha@- de 481/482 ao fim@88370106@Rua@S@R Honorato C da Rocha               
+1029211@SC@8571@57947@@Honorato Joaquim Nunes@@88371403@Rua@S@R Honorato J Nunes                  
+1029212@SC@8571@57949@@Honorato Manoel Felício@@88372052@Rua@S@R Honorato M Felício                
+1029213@SC@8571@57949@@Horácio Júlio da Silva@- até 199/200@88372006@Rua@S@R Horácio J da Silva                
+1029214@SC@8571@57949@@Horácio Júlio da Silva@- de 201/202 ao fim@88372046@Rua@S@R Horácio J da Silva                
+1029215@SC@8571@57949@@Doutor Humberto Pederneira@@88372106@Rua@S@R Dr Humberto Pederneira            
+1029216@SC@8571@57944@@Hygino José Francisco@@88370668@Travessa@S@Tv Hygino J Francisco               
+1029217@SC@8571@57950@@Maria Correia da Silva@@88372804@Rua@S@R Maria C da Silva                  
+1029218@SC@8571@36186@@Ida Rodrigues Galvez@@88370440@Servidão@S@Srv Ida R Galvez                    
+1029219@SC@8571@36186@@Ilhota@@88370266@Rua@S@R Ilhota                            
+1029220@SC@8571@57944@@Iolanda Couto Rodrigues@@88370591@Rua@S@R Iolanda C Rodrigues               
+1029221@SC@8571@57943@@Irene Gaya@@88370017@Rua@S@R Irene Gaya                        
+1029222@SC@8571@57947@@Irineu José da Silva@@88371584@Rua@S@R Irineu J da Silva                 
+1029223@SC@8571@57944@@Irineu Torquato@@88371006@Rua@S@R Irineu Torquato                   
+1029224@SC@8571@57945@@Vereador Adelson Machado de Oliveira@@88371084@Rua@S@R Ver Adelson M de Oliveira         
+1029225@SC@8571@57946@@Vereador Ademar Luiz Provesi@@88371223@Rua@S@R Ver Ademar L Provesi              
+1029226@SC@8571@36186@@Adilio Juvenal Mafra@- até 398/399@88370184@Rua@S@R Adilio J Mafra                    
+1029227@SC@8571@36186@@Adilio Juvenal Mafra@- de 400/401 a 598/599@88370278@Rua@S@R Adilio J Mafra                    
+1029228@SC@8571@36186@@Adilio Juvenal Mafra@- de 600/601 ao fim@88370280@Rua@S@R Adilio J Mafra                    
+1029229@SC@8571@57949@@Adolfo Cabral Júnior@@88372200@Rua@S@R Adolfo C Júnior                   
+1029230@SC@8571@36186@@Adolfo Cirino Müller@@88370448@Travessa@S@Tv Adolfo C Müller                       
+1046472@SC@8419@30370@@Iraídes Maria Bolzani Bervian@(Loteamento Eduarda)@89810853@Rua@S@R Iraídes M B Bervian               
+1046473@SC@8419@30370@@Celso Bolis@(Loteamento Eduarda)@89810851@Rua@S@R Celso Bolis                       
+1046474@SC@8419@29991@@Hermínio Egídio Damo@(Loteamento Pinheiros)@89806836@Rua@S@R Hermínio E Damo                   
+1046475@SC@8419@61410@@Norma Moretto@(Loteamento Monte Castelo)@89813385@Rua@S@R Norma Moretto                     
+1046476@SC@8419@61410@@Lino Villa Sanches@(Loteamento Monte Castelo)@89813383@Rua@S@R Lino V Sanches                    
+1046477@SC@8419@61410@@Ângelo Rodrigues@(Loteamento Monte Castelo)@89813382@Rua@S@R Ângelo Rodrigues                  
+1046478@SC@8419@61410@@Celeste Caetano Carbonera@(Estrada de acesso ao Loteamento Exp@89813350@Estrada Municipal@S@Est Mun Celeste C Carbonera         
+1046479@SC@8419@13858@@Teulide Rossetto dos Santos@(Loteamento Horizontes Azuis III)@89815634@Rua@S@R Teulide R dos Santos              
+1046480@SC@8419@13858@@Ivete Maria Cunico@(Loteamento Horizontes Azuis III)@89815636@Rua@S@R Ivete M Cunico                    
+1046481@SC@8419@13858@@Nestor Lourenço Fernandes@@89815632@Rua@S@R Nestor L Fernandes                
+1046482@SC@8419@61412@@José Rotava@(Loteamento Reserva dos Pinhais IV)@89815364@Rua@S@R José Rotava                       
+1046483@SC@8419@61412@@Orestes Zanini@(Loteamento Reserva dos Pinhais IV)@89815366@Rua@S@R Orestes Zanini                    
+1046484@SC@8419@61412@@Ivo Halves Paixão@(Loteamento Reserva dos Pinhais IV)@89815368@Rua@S@R Ivo H Paixão                      
+1046485@SC@8419@13845@@Valdir Mittmann@(Loteamento Campinas II)@89809615@Rua@S@R Valdir Mittmann                   
+1046486@SC@8419@13845@@Domingos Antonio Guaragni@(Loteamento Aurora)@89809804@Servidão@S@Srv Domingos A Guaragni             
+1046487@SC@8419@13845@@Oscar Oliveira Pinto@(Loteamento Califórnia)@89809862@Rua@S@R Oscar O Pinto                     
+1046488@SC@8419@13845@@João Dariff@(Loteamento Califórnia)@89809867@Rua@S@R João Dariff                       
+1046489@SC@8419@13845@@Ari Menegatti@(Loteamento Califórnia)@89809865@Rua@S@R Ari Menegatti                     
+1046490@SC@8419@13845@@Gema Rosalina Sandri Pellin@(Loteamento New Villas)@89809703@Rua@S@R Gema R S Pellin                   
+1046491@SC@8419@13845@@Julian Bortoli da Silva@(Loteamento Zanrosso II)@89809746@Rua@S@R Julian B da Silva                 
+1046492@SC@8430@50928@@Rio Maina@@88817586@Acesso Estadual@S@Ac Estd Rio Maina                   
+1046493@SC@8430@13912@@Domingos Netto@- lado par@88803440@Rua@S@R Domingos Netto                    
+1046494@SC@8430@50746@@Domingos Netto@- lado ímpar@88803343@Rua@S@R Domingos Netto                    
+1046495@SC@8430@13911@@Flor de Lótus@@88816186@Rua@S@R Flor de Lótus                     
+1046496@SC@8430@50926@@José Natal@@88817422@Rua@S@R José Nata
