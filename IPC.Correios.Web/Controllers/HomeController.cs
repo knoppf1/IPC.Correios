@@ -30,9 +30,51 @@ namespace IPC.Correios.Middleware.Web.Controllers
 
         public ActionResult BuscaCep()
         {
+            
+
+            string filePath1 = @"C:\Users\kerst\Desktop\projeto-provapratica\IPC.Correios.Web\App_Data\Correios\LOG_LOGRADOURO_SC2.TXT";
+            string filePath2 = @"C:\Users\kerst\Desktop\projeto-provapratica\IPC.Correios.Web\App_Data\Correios\LOG_LOCALIDADE.TXT";
+
+            List<string> lines1 = System.IO.File.ReadAllLines(filePath1).ToList();
+            List<string> lines2 = System.IO.File.ReadAllLines(filePath2).ToList();
+
+            List<Logradouro> cadastro = new List<Logradouro>();
+            //List<Logradouro> unique = new List<Logradouro>();
+
+
+
+            foreach (var line1 in lines1)
+            {
+                string[] entries = line1.Split('@');
+                Logradouro newLogradouro = new Logradouro();
+                newLogradouro.Estado = entries[1];
+                newLogradouro.CodMun = entries[2];
+                
+                if(newLogradouro.Estado == "SC")
+
+                    foreach (var line2 in lines2)
+                    {
+                        string[] entries2 = line2.Split('@');
+                        Logradouro localidade = new Logradouro();
+                        localidade.CodMun = entries2[0];
+                        localidade.Municipio = entries2[2];
+
+                        if (localidade.CodMun == newLogradouro.CodMun)
+                        {
+                            newLogradouro.Municipio = localidade.Municipio;
+                                
+                                    cadastro.Add(newLogradouro);
+                        }
+                    }
+            }
+
+
+            //var unique = cadastro.Distinct(Logradouro => Logradouro.Municipio).ToList();
+
+
             ViewBag.Message = "";
 
-            return View();
+            return View(cadastro);
         }
 
         public ActionResult BuscaEndereco()
@@ -46,13 +88,14 @@ namespace IPC.Correios.Middleware.Web.Controllers
 
 
         [HttpPost]
-        public ActionResult Index(int id)
+        public ActionResult Index(int? id)
         {
             return RedirectToAction("VerificaLogradouro", new { cep = id });
         }
 
 
         public ActionResult VerificaLogradouro( string cep)
+
         {
             
             string filePath1 = @"C:\Users\kerst\Desktop\projeto-provapratica\IPC.Correios.Web\App_Data\Correios\LOG_LOGRADOURO_SC.TXT";
@@ -96,10 +139,11 @@ namespace IPC.Correios.Middleware.Web.Controllers
             }
             else
             {
-                ViewBag.Message = "Endereço Encontrado!";
+                ViewBag.Message = "Endereço Localizado!";
             }
             
             return View(cadastro);
+            
         }
     }
 
