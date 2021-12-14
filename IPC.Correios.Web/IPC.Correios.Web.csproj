@@ -182,7 +182,6 @@
     <Content Include="Views\Home\BuscaCep.cshtml" />
     <Content Include="Views\Home\BuscaEndereco.cshtml" />
     <Content Include="Views\Home\VerificaLogradouro.cshtml" />
-    <Content Include="Views\Home\View.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\Tabelas\" />
