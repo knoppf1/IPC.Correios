@@ -1,4 +1,8 @@
-﻿@model IPC.Correios.Web.Models.Logradouro
+﻿@using IPC.Correios.Web.Models
+
+@*@model List<IPC.Correios.Web.Models.Logradouro>*@
+
+@model IEnumerable<IPC.Correios.Web.Models.Logradouro>
 
 
 @{
@@ -8,32 +12,46 @@
 
 <h2>BuscaCep</h2>
 
+
+
 @using (Html.BeginForm())
 {
-    @Html.AntiForgeryToken()
-      
+    @Html.AntiForgeryToken();
 
-    <div class="form-row">
-        <div class="form-group col-md-12">
-            <label class="form-label">Estado</label>
-            <select formControlName="estado" id="estado" class="form-control select-custom">
-            </select>
-        </div>
-        <div class="form-group col-md-12">
-            <label class="form-label">Município</label>
-            <select formControlName="municipio" id="municipio" class="form-control select-custom">
-            </select>
-        </div>
-        <div class="form-group col-md-12">
-            <label class="form-label">Logradouro</label>
-            <select formControlName="logradouro" id="logradouro" class="form-control select-custom">
-            </select>
-        </div>
-    </div>
+    @*@Html.DropDownList("Municipio", EnumHelper.GetSelectList(typeof(Logradouro)), "Seleciona Município", new { @class = "form-control" })*@
 
-    <div class="form-group col-md-12 col-sm-12 mt-4">
-        <button type="submit" class="btn btn-primary" (click)="save($event)">Buscar</button>
-    </div>
+    @*@Html.DropDownList("StatusImovel", new MultiSelectList(ViewBag.ListaStatus, "IdStatus", "Descricao", ViewBag.StatusSelecionados), new { @hidden = "hidden", @multiple = "multiple", @form = "nulo" })*@
+
+
+    //@Html.DropDownList("Municipio", new SelectList(Enum.GetValues(typeof(Logradouro))), "Seleciona Município", new { @class = "form-control" })
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Municipio)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Municipio)
+                </td>
+
+
+            </tr>
+        }
+
+    </table>
 }
 
 <div>
